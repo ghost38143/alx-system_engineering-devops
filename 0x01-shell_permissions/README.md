@@ -1,0 +1,1 @@
+discussion about shell permissions
