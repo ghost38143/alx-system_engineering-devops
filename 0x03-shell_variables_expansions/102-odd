@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d: -f2 | grep -n '' | cut -d: -f2
+cat -f | grep -n '' | cut -d: -f2 | grep -n '' | cut -d: -f2
